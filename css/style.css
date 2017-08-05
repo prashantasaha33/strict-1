@@ -1,0 +1,307 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	
+}
+
+
+#carousel-example-generic {
+}
+
+.top-header-section {
+ background: #f6f9f9;
+ padding: 3px 0px;
+}
+
+
+
+.strict-logo {
+}
+
+.strict-logo img{
+
+margin-top: 10px;
+
+margin-bottom: 10px;
+}
+
+.btn-custom{
+	margin-top: 30px;
+	background: transparent;
+	border: 1px solid;
+	border-color: #67b8ff;
+	padding: 15px 30px;
+	border-radius: 10px;
+	}
+
+.carousel-indicators {
+
+}
+
+.active {
+}
+
+.carousel-inner {
+}
+
+.item.active {
+}
+
+.img-responsive {
+}
+
+.carousel-caption{
+	position: absolute;
+    right: 15%;
+    bottom: 50%;
+    left: 15%;
+    z-index: 10;
+    padding-top: 0;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+    transform: translateY(50%);
+}
+.carousel-caption h1{
+	font-size: 120px;
+	font-weight: 900;
+	border-bottom: 3px solid rgba(0, 184, 255, 0.75);
+	position: relative;
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+}
+.carousel-caption p{
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.carousel-caption h1:after{*/
+	content: "";
+	width: 60%;
+	height: 3px;
+	background: rgb(21, 164, 250);
+	position: absolute;
+	bottom: 0;
+	left: 170px;
+}
+/*.carousel-caption h1: before{
+content: "" 
+}*/
+
+.btn-custom{
+	
+}
+.arrow {position: absolute;
+	text-align: center;left: 49%;
+	bottom: -150px;
+}
+
+.glyphicon.glyphicon-menu-down {
+	    
+}
+
+.item {
+}
+
+.left.carousel-control {
+}
+
+.glyphicon.glyphicon-chevron-left {
+}
+
+.sr-only {
+}
+
+.right.carousel-control {
+}
+
+.glyphicon.glyphicon-chevron-right {
+}
+
+.pure-design-section {
+	background: #F6F9FD;
+	text-align: center;
+	}
+
+
+
+.header{
+
+text-align: center;
+
+margin-bottom: 40px;
+
+margin-top: 40px;
+}
+.header h2{
+
+
+}
+.header p{padding: 0px 100px;}
+
+.features-section {
+}
+
+
+.col-sm-4 {}
+
+.features {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.fiatures-img {
+	margin-left: 140px;
+	width: 100px;
+	/* height: 100px; */
+	background: linear-gradient(to right, #6DB3F0 0%,#54A3EB 50%,#3690f0 55%,#1e69de 50%);
+	padding: 15px 7px;
+	margin: 0 auto;
+	}
+
+.fiatures-img i{
+
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 50px;
+    font-style: normal;
+    color: #fdfdfd;
+}
+.flaticon-cell-phone {
+
+}
+
+.caption {
+}
+.caption h4 {
+}
+.caption p{
+}
+
+.work-section {
+	background: #f6f9fd;
+}
+
+.work-section img  {
+	
+}
+
+.workimg{
+	position: relative;
+	margin-bottom: 30px;
+}
+.workimg a.link{
+	position: absolute;
+	top: 50%;
+	left: 54%;
+	transform: translate(-50%,-50%);
+	font-size: 25px;
+	border: 1px solid #fff;
+	color: #fff;
+	overflow: hidden;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+}
+.workimg a.search{
+	position: absolute;
+	top: 50%;
+	left: 43%;
+	transform: translate(-50%,-50%);
+	font-size: 25px;
+	border: 1px solid #fff;
+	color: #fff;
+	overflow: hidden;
+	width: 35px;
+	height: 35px;
+	text-align: center;
+}
+ 
+.overlay {
+	position: absolute;
+	background: rgba(93, 166, 230, 0.61);
+	width: 100%;
+	height: 100%;
+	top: 0;left: 0;
+}
+
+
+.contact-section {
+	background-image: url(../images/bg2.jpg);
+	position: relative;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+.contact-section .overlay{
+	background: rgba(4, 12, 21, 0.63);
+}
+
+.contact-section h2{
+	color: #fff;
+}
+.contact-section p{
+	color: #fff;
+}
+
+.form-group {
+}
+
+.form-control {
+	background: rgba(240, 242, 255, 0);
+	padding: 20px;
+}
+
+.checkbox {float: left;}
+
+.btn.btn-default {
+	float: right;
+	padding: 10px 40px;
+	background-color: transparent;
+	color: aliceblue;
+	border-color: #4d9cce;
+	margin-bottom: 15px;
+}
+.footer-section{
+
+}
+
+.footer-content{
+	float: left;
+	margin-top: 25px;
+}
+
+.footer-content p{
+
+}
+
+.footer-icon{
+	margin-top: 20px;
+	float: right;
+}
+
+.footer-icon ul{
+	
+}
+
+.footer-icon li{
+
+}
+.footer-icon li a{
+	margin: 0 -5px;
+}
+
+.footer-icon li i{
+	color: white;
+	width: 40px;
+	height: 40px;
+	background: #64adef;
+	text-align: center;
+	line-height: 40px;
+}
